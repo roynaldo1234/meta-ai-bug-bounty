@@ -3,7 +3,7 @@
 **Report Date:** June 6, 2024  
 **Test Date:** January 23, 2024  
 **Authors:** [Don Baudin](mailto:donbaudin@gmail.com), [Matthew Hagan](mailto:matt@doublediamond.io), [Sean Tessier](mailto:stessier1992@gmail.com)  
-**Certifications:** Security+, A+, Azure Fundamentals, OSCP, Network+
+**Certifications:** Security+, OSCP, Network+
 
 ---
 
